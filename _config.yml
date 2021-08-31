@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 # 기본 설명 https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 
-minimal_mistakes_skin    : "default" # 태마 색 설정 "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" 
+minimal_mistakes_skin    : "air" # 태마 색 설정 "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" 
 
 # Site Settings
 locale                   : "ko-KR"
