@@ -61871,24 +61871,24 @@ $S:34}
 A.uf.prototype={
 ag(){return new A.K_(B.n)}}
 A.K_.prototype={
-I(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i=t.w
-k.d=b.J(i).f.a.a
-k.e=b.J(i).f.a.b
+I(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/icons/android_logo.png",h=t.w
+k.d=b.J(h).f.a.a
+k.e=b.J(h).f.a.b
 A.jn(b,t.pd)
-i=k.d
-s=0.1*i
+h=k.d
+s=0.1*h
 r=A.k5(A.cq("What I Do",j,A.c0(j,j,j,j,j,j,j,j,j,j,j,45,j,B.V,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j)
 q=A.al(j,30,j)
 p=A.ar(102,255,255,0)
 o=k.d
-o=A.Bq(p,"lib/icons/android_logo.png","\uccab\ubc88\uc9f8 \uce74\ub4dc","\uccab\ubc88\uc9f8 \uce74\ub4dc\uc758 \uc124\uba85",o,k.e,0.22*o,400,18,14)
+o=A.Bq(p,i,"\uccab\ubc88\uc9f8 \uce74\ub4dc","\uccab\ubc88\uc9f8 \uce74\ub4dc\uc758 \uc124\uba85",o,k.e,0.22*o,400,18,14)
 p=A.ar(102,100,255,218)
 n=k.d
-n=A.Bq(p,"lib/icons/mob_dev.png","\ub450\ubc88\uc9f8 \uce74\ub4dc","\ub450\ubc88\uc9f8 \uce74\ub4dc\uc758 \uc124\uba85",n,k.e,0.22*n,400,18,14)
+n=A.Bq(p,i,"\ub450\ubc88\uc9f8 \uce74\ub4dc","\ub450\ubc88\uc9f8 \uce74\ub4dc\uc758 \uc124\uba85",n,k.e,0.22*n,400,18,14)
 p=A.ar(102,255,82,82)
 m=k.d
 l=t.p
-return A.b_(j,A.cE(A.a([r,q,A.db(A.a([o,n,A.Bq(p,"lib/icons/web.png","\uc138\ubc88\uc9f8 \uce74\ub4dc","\uc138\ubc88\uc9f8 \uce74\ub4dc\uc758 \uc124\uba85",m,k.e,0.22*m,400,18,14)],l),B.z,B.r6,B.t),A.al(j,80,j),A.db(A.a([new A.bX(B.za,A.cq("Who I am",j,A.c0(j,j,j,j,j,j,j,j,j,j,j,45,j,B.V,j,j,!0,j,j,j,j,j,j,j,j),j,j),j),A.al(j,j,0.2*k.d),A.adQ(80)],l),B.z,B.G,B.t)],l),B.bO,B.G,B.t),B.k,j,j,j,j,j,j,new A.aq(s,0,s,0),j,j,i)}}
+return A.b_(j,A.cE(A.a([r,q,A.db(A.a([o,n,A.Bq(p,i,"\uc138\ubc88\uc9f8 \uce74\ub4dc","\uc138\ubc88\uc9f8 \uce74\ub4dc\uc758 \uc124\uba85",m,k.e,0.22*m,400,18,14)],l),B.z,B.r6,B.t),A.al(j,80,j),A.db(A.a([new A.bX(B.za,A.cq("Who I am",j,A.c0(j,j,j,j,j,j,j,j,j,j,j,45,j,B.V,j,j,!0,j,j,j,j,j,j,j,j),j,j),j),A.al(j,j,0.2*k.d),A.adQ(80)],l),B.z,B.G,B.t)],l),B.bO,B.G,B.t),B.k,j,j,j,j,j,j,new A.aq(s,0,s,0),j,j,h)}}
 A.xO.prototype={
 ag(){return new A.NH(B.n)}}
 A.NH.prototype={
