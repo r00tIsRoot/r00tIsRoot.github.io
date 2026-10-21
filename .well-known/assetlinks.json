@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "test.walletuser.a",
+      "sha256_cert_fingerprints": ["D0:4C:CE:E0:C1:3A:DF:D8:84:3E:C3:51:B3:00:FA:C9:0B:3E:DA:21:EC:14:0F:11:87:2C:04:3C:4C:29:CE:1F"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "test.walletuser.b",
+      "sha256_cert_fingerprints": ["D0:4C:CE:E0:C1:3A:DF:D8:84:3E:C3:51:B3:00:FA:C9:0B:3E:DA:21:EC:14:0F:11:87:2C:04:3C:4C:29:CE:1F"]
+    }
+  }
+]
