@@ -1,18 +1,50 @@
 [
-  {
-    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "test.walletuser.a",
-      "sha256_cert_fingerprints": ["D0:4C:CE:E0:C1:3A:DF:D8:84:3E:C3:51:B3:00:FA:C9:0B:3E:DA:21:EC:14:0F:11:87:2C:04:3C:4C:29:CE:1F"]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "test.walletuser.b",
-      "sha256_cert_fingerprints": ["D0:4C:CE:E0:C1:3A:DF:D8:84:3E:C3:51:B3:00:FA:C9:0B:3E:DA:21:EC:14:0F:11:87:2C:04:3C:4C:29:CE:1F"]
-    }
-  }
+{
+"relation": [
+"delegate_permission/common.get_login_creds"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "io.saltedisland",
+"sha256_cert_fingerprints": [
+"0B:3C:2D:93:44:73:B0:26:AF:94:40:31:9C:66:75:06:E9:E2:C5:8A:94:D1:F5:6E:35:EB:BF:17:17:C6:9B:B0",
+"C2:71:8B:ED:6C:23:CD:62:25:71:19:43:3C:64:C8:DD:1F:17:3D:A6:1D:AA:BA:C1:57:36:7E:B3:75:5C:BE:75",
+"C4:48:DE:B5:90:00:93:CC:C3:8C:6E:99:31:5F:15:98:59:80:F2:1D:F2:9F:58:39:DD:BF:CA:43:40:05:84:6E",
+"38:C2:FE:83:7F:9A:4C:82:3A:F7:AC:93:84:6F:B5:C0:73:07:BE:4C:DA:75:D4:B2:A2:8D:EC:9F:C2:69:49:B5",
+"40:05:B1:A3:3C:49:22:9B:8F:A0:53:83:B8:7F:C8:CC:92:44:EB:6D:3E:D1:32:25:84:F0:51:36:69:EA:F3:A0"
+]
+}
+},
+{
+"relation": [
+"delegate_permission/common.get_login_creds"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "io.saltedisland.servicea",
+"sha256_cert_fingerprints": [
+"0B:3C:2D:93:44:73:B0:26:AF:94:40:31:9C:66:75:06:E9:E2:C5:8A:94:D1:F5:6E:35:EB:BF:17:17:C6:9B:B0",
+"C2:71:8B:ED:6C:23:CD:62:25:71:19:43:3C:64:C8:DD:1F:17:3D:A6:1D:AA:BA:C1:57:36:7E:B3:75:5C:BE:75",
+"C4:48:DE:B5:90:00:93:CC:C3:8C:6E:99:31:5F:15:98:59:80:F2:1D:F2:9F:58:39:DD:BF:CA:43:40:05:84:6E",
+"38:C2:FE:83:7F:9A:4C:82:3A:F7:AC:93:84:6F:B5:C0:73:07:BE:4C:DA:75:D4:B2:A2:8D:EC:9F:C2:69:49:B5",
+"40:05:B1:A3:3C:49:22:9B:8F:A0:53:83:B8:7F:C8:CC:92:44:EB:6D:3E:D1:32:25:84:F0:51:36:69:EA:F3:A0"
+]
+}
+},
+{
+"relation": [
+"delegate_permission/common.get_login_creds"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "io.saltedisland.serviceb",
+"sha256_cert_fingerprints": [
+"0B:3C:2D:93:44:73:B0:26:AF:94:40:31:9C:66:75:06:E9:E2:C5:8A:94:D1:F5:6E:35:EB:BF:17:17:C6:9B:B0",
+"C2:71:8B:ED:6C:23:CD:62:25:71:19:43:3C:64:C8:DD:1F:17:3D:A6:1D:AA:BA:C1:57:36:7E:B3:75:5C:BE:75",
+"C4:48:DE:B5:90:00:93:CC:C3:8C:6E:99:31:5F:15:98:59:80:F2:1D:F2:9F:58:39:DD:BF:CA:43:40:05:84:6E",
+"38:C2:FE:83:7F:9A:4C:82:3A:F7:AC:93:84:6F:B5:C0:73:07:BE:4C:DA:75:D4:B2:A2:8D:EC:9F:C2:69:49:B5",
+"40:05:B1:A3:3C:49:22:9B:8F:A0:53:83:B8:7F:C8:CC:92:44:EB:6D:3E:D1:32:25:84:F0:51:36:69:EA:F3:A0"
+]
+}
+}
 ]
